@@ -1,0 +1,4 @@
+unstructured[pdf]
+pdf2image
+pdfminer
+tesseract
